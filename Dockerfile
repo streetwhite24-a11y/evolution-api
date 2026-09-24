@@ -1,2 +1,2 @@
-FROM evolutionapi/evolution-api:v2.2.4
+FROM evoapicloud/evolution-api:latest
 EXPOSE 8080
