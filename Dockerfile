@@ -1,2 +1,2 @@
-FROM atendai/evolution-api:v2.3.7
+FROM atendai/evolution-api:v2.2.4
 EXPOSE 8080
